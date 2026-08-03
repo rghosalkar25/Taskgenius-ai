@@ -155,4 +155,3 @@ taskgenius-ai/
 
 ## Author
 Riddhi Ghosalkar ([@rghosalkar25](https://github.com/rghosalkar25))
-Built as part of academic coursework, with Claude assisting on architecture, debugging, and feature implementation.
