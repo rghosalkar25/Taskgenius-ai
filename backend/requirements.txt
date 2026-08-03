@@ -1,0 +1,11 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic[email]==2.9.2
+SQLAlchemy==2.0.35
+dateparser==1.2.0
+python-multipart==0.0.9
+bcrypt==4.2.0
+python-jose[cryptography]==3.3.0
+
+# After installing requirements, download the spaCy English model with:
+# python -m spacy download en_core_web_sm
